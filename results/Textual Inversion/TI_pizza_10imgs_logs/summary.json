@@ -1,0 +1,13 @@
+{
+  "method": "Textual Inversion",
+  "food_class": "pizza",
+  "dataset_size": 10,
+  "train_steps": 3000,
+  "train_time_min": 18.45,
+  "model_output_size_kb": 4,
+  "clip_simple": 0.2532,
+  "clip_medium": 0.2624,
+  "clip_complex": 0.2715,
+  "clip_overall": 0.2624,
+  "dino_overall": 0.6374
+}

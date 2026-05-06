@@ -1,0 +1,9 @@
+method=dreambooth_lora
+food_class=pizza
+dataset_size=20
+train_steps=1200
+lora_rank=4
+prior_loss_weight=1.0
+num_class_images=200
+train_duration_minutes=16.56
+lora_file_size_mb=3.09

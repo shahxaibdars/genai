@@ -1,0 +1,7 @@
+method=lora
+food_class=pizza
+dataset_size=5
+train_steps=1000
+lora_rank=4
+train_duration_minutes=7.07
+lora_file_size_mb=3.09

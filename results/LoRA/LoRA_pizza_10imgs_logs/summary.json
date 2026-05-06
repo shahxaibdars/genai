@@ -1,0 +1,14 @@
+{
+  "method": "LoRA",
+  "food_class": "pizza",
+  "dataset_size": 10,
+  "lora_rank": 4,
+  "train_steps": 1000,
+  "train_time_min": 7.29,
+  "model_output_size_mb": 3.09,
+  "clip_simple": 0.2852,
+  "clip_medium": 0.3005,
+  "clip_complex": 0.3182,
+  "clip_overall": 0.3013,
+  "dino_overall": 0.5437
+}

@@ -1,0 +1,5 @@
+method=textual_inversion
+food_class=pizza
+dataset_size=5
+train_steps=3000
+train_duration_minutes=18.46

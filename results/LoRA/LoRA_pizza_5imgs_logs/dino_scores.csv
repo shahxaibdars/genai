@@ -1,0 +1,16 @@
+id,complexity,dino_score
+1,simple,0.812238
+2,simple,0.798026
+3,simple,0.662355
+4,simple,0.828105
+5,simple,0.805409
+6,medium,0.727773
+7,medium,0.813534
+8,medium,0.424764
+9,medium,0.764096
+10,medium,0.143015
+11,complex,0.685973
+12,complex,-0.032355
+13,complex,0.566555
+14,complex,0.709156
+15,complex,0.359963
